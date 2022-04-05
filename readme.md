@@ -55,15 +55,40 @@ Di bagian atas kiri dari halaman produk ada sebuah tombol untuk memanage data KI
 
 Untuk bisa mendaftarkan pemilik KIM/UKM, user harus mengisi Nama, Nomor KTP, Bio, dan Foto dari pemilik KIM/UKM tersebut. Jika sudah maka user dapat mengklik tombol daftar untuk mendaftarkan pemilik tersebut. Admin dapat mengedit serta menghapus data-data pemilik KIM yang masuk.
 
+![1](https://user-images.githubusercontent.com/96167699/161690192-d53007ff-9cd7-47a3-a095-be6f74500b75.png)
+
+![2](https://user-images.githubusercontent.com/96167699/161690204-503c18a5-7bde-443d-8927-34fe913ffec8.png)
+
+
+Jika pada saat user memilih untuk memanage data KIM/UKM akan muncul pilihan lagi, yaitu ingin memanage data KIM/UKM atau data produk. Jika user ingin mendaftarkan KIM/Produk dapat menekan tambah data di bagian atas kiri tabel.
+
 ## Halaman Agenda
+
+![1](https://user-images.githubusercontent.com/96167699/161690282-ca45f5c8-20e3-4f8d-941b-9e835a513bc6.png)
+
+![2](https://user-images.githubusercontent.com/96167699/161690290-93c0b27f-fe8b-4435-af28-2f99335c8561.png)
+
+
 Di halaman agenda terdapat kalender kegiatan KIM, user tanggal kegiatan-kegiatan KIM di kalender tersebut. Di bawahnya terdapat kegiatan-kegiatan yang sudah dimasukkan ke website, jika user mengklik tombol selanjutnya akan diarahkan ke halaman detail dari kegiatan tersebut.
+
+![3](https://user-images.githubusercontent.com/96167699/161690348-72d337be-f632-4cfb-88d2-de3243e0bd15.png)
+
 
 User juga dapat menambahkan kegiatan dengan mengklik tombol tambah kegiatan di atas kiri list kegiatan. Di halaman agenda, admin dapat memanage kegiatan yang telah didaftarkan. Admin dapat menghapus dan mengedit data kegiatan yang masuk dengan mengklik tombol manage kegiatan disebelah tombol tambah kegiatan.
 
 ## Halaman Kontak Kami
 
+![1](https://user-images.githubusercontent.com/96167699/161690453-cadcf6f5-3094-42e3-8fd1-336ac36176fe.png)
+
+![2](https://user-images.githubusercontent.com/96167699/161690465-718d8119-fa16-4b0d-9035-a9ba5500e7a1.png)
+
+
 Pada halaman kontak kami user dapat melihat kontak untuk menghubungi kantor kecamatan periuk serta di bawahnya user dapat mengirim pesan ke admin dengan mengisi nama, email, dan pesan yang ingin dikirim.
 
-## Halaman Login
+## Login
+
+![3](https://user-images.githubusercontent.com/96167699/161690590-577163f4-cc36-429d-8132-28b61d8a649a.png)
+
+![4](https://user-images.githubusercontent.com/96167699/161690600-56145c76-5aae-4d39-a282-9b58c791c36c.png)
 
 Jika user lupa password maka user dapat memilih lupa password lalu masukkan email yang didaftarkan di Website KIM, link untuk mereset password akan dikirimkan ke email yang didaftarkan di Website KIM.
