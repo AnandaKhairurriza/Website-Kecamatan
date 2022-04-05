@@ -4,7 +4,9 @@ Website KIM Kecamatan Periuk adalah website yang berisi informasi tentang Kelomp
 
 Note:
 •	Front-end menggunakan bahasa HTML, CSS, dan Javascript
+
 •	Website dibuat dengan Laravel versi 5.8
+
 •	Penyimpanan database menggunakan MySQL
 
 ## Halaman Utama
