@@ -26,6 +26,10 @@ Selanjutnya, pada halaman profil user dapat melihat selayang pandang/sekilas pan
 Admin dapat mengubah isi dari halaman profilPada saat admin membuka halaman profil akan muncul tombol untuk mengubah bagian mana yang ingin diubah, pada saat diklik admin bisa mengganti deskripsi struktur organisasi serta mengubah gambar struktur organisasi.
 
 ## Halaman Produk
+
+![4](https://user-images.githubusercontent.com/96167699/161689718-4cde893b-e9ed-449b-bd91-95f076316846.png)
+
+
 Di halaman produk akan ditampilkan produk-produk KIM yang sudah didaftarkan (6 produk secara random) jika user mengklik tombol selanjutnya akan diarahkan ke halaman detail tentang produk tersebut, halaman tersebut berisi foto produk, nama produk, dan deskripsi dari produk tersebut.
 
 Di bawahnya terdapat tiga KIM/UKM yang telah didaftarkan yang akan ditampilkan secara random jika user mengklik tombol selanjutnya akan diarahkan ke halaman detail dari KIM/UKM tersebut, halaman tersebut berisi alamat, pemilik, dan deskripsi dari KIM/UKM tersebut.
@@ -33,9 +37,21 @@ Di bawahnya terdapat tiga KIM/UKM yang telah didaftarkan yang akan ditampilkan s
 Kemudian di bagian bawah halaman produk akan ditampilkan pemilik-pemilik KIM/UKM yang sudah didaftarkan di Website KIM.
 
 ## Halaman Daftar UMK
+
+![5](https://user-images.githubusercontent.com/96167699/161689837-026f7ef5-bdcb-49a0-873e-00ba256704c9.png)
+
+
 Di halaman ini akan ditampilkan semua daftar KIM/UKM beserta pemilik dan produknya yang telah didaftarkan di Website, user juga dapat mencari KIM/UKM yang ingin dicari di bagian pencarian/search di atas kanan tabel, user juga bisa menentukan berapa banyak data yang akan ditampilkan per halaman dengan mengatur show entries di bagian atas kiri tabel.
 
+![6](https://user-images.githubusercontent.com/96167699/161689872-73c248fe-a861-4e7b-bec2-98b67d5b95d9.png)
+
+![7](https://user-images.githubusercontent.com/96167699/161689911-2ce82a29-244e-4226-b8dc-640a05fe3560.png)
+
+
 Di bagian atas kiri dari halaman produk ada sebuah tombol untuk memanage data KIM/UKM. Jika user mengklik tombol tersebut akan muncul pilihan untuk manage data pemilik atau data KIM/UKM. Jika user memilih untuk memilih manage data pemilik akan muncul data-data pemilik yang telah didaftarkan, user juga dapat melihat kapan data tersebut didaftarkan dan kapan data tersebut di edit. Jika user ingin mendaftarkan pemilik KIM/UKM user dapat mengklik tombol tambah data pemilik di bagian atas kiri tabel.
+
+![8](https://user-images.githubusercontent.com/96167699/161689969-3992f157-56eb-4c82-99fd-9ab844071ff2.png)
+
 
 Untuk bisa mendaftarkan pemilik KIM/UKM, user harus mengisi Nama, Nomor KTP, Bio, dan Foto dari pemilik KIM/UKM tersebut. Jika sudah maka user dapat mengklik tombol daftar untuk mendaftarkan pemilik tersebut. Admin dapat mengedit serta menghapus data-data pemilik KIM yang masuk.
 
